@@ -39,5 +39,5 @@ int main(){
     Solution s;
     cout<<s.longestPalindrome("Aryan");
     return 0;
-    
+
 }
